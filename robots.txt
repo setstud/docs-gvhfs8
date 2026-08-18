@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-sayuu9.yoursingles.online/sitemap.xml
